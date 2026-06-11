@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Omar Tuhin (@omartuhintvs) 👋
 
-<!--
-**omartuhintvs/omartuhintvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer specializing in AI agent automation, robust systems architectures, and tool-use optimization.
 
-Here are some ideas to get you started:
+## 🛠️ Specialized Projects & Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **AI-Agent Optimization**: Architect of zero-cost tool-calling systems like [9Router Round-Robin combos](https://gist.github.com/omartuhintvs/8a9ea395bdc42d724f3208ca9c85cf48) using local, open-source, and rate-limited API fallback pools.
+- **Hermes Agent Personas**: Creator of [Hermes-Naval-Profile](https://github.com/omartuhintvs/hermes-naval-profile), applying philosophy (compounding knowledge, leverage) to software engineering systems.
+- **ERPNext & Frappe**: Expert in Frappe framework development, backend hooks, custom applications, and server-side script permissions.
+
+---
+
+### 💻 Tech Stack
+- **Languages**: Python, Node.js, Shell (Bash/Zsh)
+- **Frameworks**: ERPNext/Frappe Framework, Pytest
+- **Tools**: Claude Code, Hermes Agent, 9Router, Git, GitHub CLI
+
+---
+
+### 📫 Connect with me
+- **GitHub**: [omartuhintvs](https://github.com/omartuhintvs)
